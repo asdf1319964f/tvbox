@@ -138,19 +138,6 @@
       "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vaG5yeXp6aC96emgvcmF3L21hc3Rlci90di1BLnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
   	"lives":[
 			{
 				"name": "live.ipv6",
