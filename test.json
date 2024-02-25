@@ -10,6 +10,15 @@
       "changeable": 0,
       "ext": "./alist.json"
     }
+         {
+      "key": "spider",
+      "name": "JAV",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
   ],
   "lives": [
     {
