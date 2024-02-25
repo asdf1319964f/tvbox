@@ -882,9 +882,7 @@
 					"25.0666",
 					"25.08"
 				]
-			},
-			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huos
-    {
+			}
       "group": "硬解码",
       "options": [
         {
