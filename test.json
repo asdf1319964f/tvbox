@@ -1,5 +1,5 @@
 {
-  "spider": "./target_custom_spider.jar;md5;29bcf3de86e88da325fdc60e27b68c8f",
+  "spider": "./custom_spider.jar;md5;29bcf3de86e88da325fdc60e27b68c8f",
   "sites": [
     {
       "key": "AList",
