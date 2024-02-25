@@ -1,7 +1,5 @@
 {
-  "spider":"./pg.jar",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "sites": [
+ "sites": [
     {
       "key": "csp_Kunyu77",
       "name": "👒酷云七七〔公众号：人人资源〕",
@@ -960,4 +958,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "wallpaper": "https://tool.weetai.cn/api/images/05.png",
+  "spider": "https://gitee.com/hnryzzh/zzh/raw/master/jar/影视.jar"
 }
