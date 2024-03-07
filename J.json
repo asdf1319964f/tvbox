@@ -120,6 +120,20 @@
       "filterable": 0
     },
     {
+            "key": "Supjav",
+            "name": "🔞 Supjav",
+            "type": 3,
+            "api": "csp_Supjav",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/jar/xc0126.jar"
+        },
+    {
       "key": "❤91麻豆",
       "name": "❤91麻豆源墙√",
       "type": 1,
