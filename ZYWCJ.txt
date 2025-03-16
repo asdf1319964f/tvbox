@@ -1,4 +1,4 @@
-# l优质资源
+#优质资源
 量子秒播,https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/
 淘片秒播,https://taopianapi.com/cjapi/mc/vod/json/m3u8.html
 #
