@@ -2,7 +2,7 @@ let http;
 try {
     http = config.依赖.replace(/[^/]*$/, "");
 } catch (e) {
-    http = getItem("git", "https://raw.githubusercontent.com/yuanwangokk-1/HiKer/599d054eaf4fff328beda6142dc170641a5e1d23/ying/ycl.js").replace(/[^/]*$/, "");
+    http = getItem("git", "https://raw.githubusercontent.com/asdf1319964f/tvbox/refs/heads/main/ycl.js").replace(/[^/]*$/, "");
 }
 ;
 
